@@ -2,3 +2,6 @@ name = "Wlroots"
 uuid = "715d09c1-63ae-4d8e-8b7c-52b32665a670"
 authors = ["Soc Virnyl S. Estela <socvirnyl.estela@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Wayland_jll = "a2964d1f-97da-50d4-b82a-358c7fce9d89"
