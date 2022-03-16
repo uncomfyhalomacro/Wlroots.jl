@@ -1,6 +1,6 @@
 # Wlroots.jl
 
-Julia bindings for wlroots.
+Julia bindings for wlroots. [WIP] I will go back to this when I am more knowledgeable enough. 
 
 ## TODO
 
